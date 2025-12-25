@@ -1,4 +1,4 @@
-#Vocal-Remover-MATLAB
+# Vocal-Remover-MATLAB
 Strip lead-vocal from stereo pop songs in one click.  
 No training, no AI—just classic signal-processing: L/R subtraction and two FIR band-stop filters.
 
